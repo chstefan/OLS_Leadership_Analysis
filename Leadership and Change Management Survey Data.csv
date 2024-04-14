@@ -1,0 +1,150 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q16,Q2,Q3,Q4,Q6_1,Q6_2,Q6_3,Q6_4,Q7_1,Q7_2,Q8_1,Q9_1,Q9_2,Q10_1,Q11_1,Q11_2,Q12_1,Q13_1,Q13_2,Q14_1,Q14_2,Q14_3,Q14_4,Q14_5,Q14_6,Q14_7,Q14_8,Q14_9,Q14_10,Q14_11,Q14_12
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Dear Participant,
+
+
+
+I invite you to contribute to this study on leadership and organizational change by sharing your insights. Even if the questions are in the present tense, feel free to refer to your past work experience.
+
+
+Please be assured that I am dedicated to protecting your data. All information collected during this study will be processed with the utmost confidentiality and anonymized by default (No data is shared with third parties). Your thoughtful responses are highly valued and will significantly contribute to our understanding of workplace practices. Participation is voluntary; you can provide as much or as little information as you feel comfortable.
+
+
+
+I appreciate your willingness to participate in this research. Your unique perspective is essential to its integrity. Please proceed at your convenience.",How old are you?,"What is your gender? 
+(Please select the option that best describes you.)",What category describes your present or previous working industry best?,"Empowerment: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - My manager gives me the information I need to do my work well.","Empowerment: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - My manager helps me to further develop myself.","Empowerment: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - My manager encourages his/her staff to come up with new ideas.","Empowerment: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - My manager gives me the authority to take decisions which make work easier for me.","Standing Back: 
+ Please specify to which degree you are agreeing with the following statements
+ (1 = low agreement; 5 = high agreement) - My manager keeps himself/herself in the background and gives credits to others.","Standing Back: 
+ Please specify to which degree you are agreeing with the following statements
+ (1 = low agreement; 5 = high agreement) - My manager is not chasing recognition or rewards for the things he/she does for others.","Accountability: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - My manager holds me responsible for the work I carry out.","Forgiveness:
+Please specify to which degree you are agreeing with the following statements 
+(1 = low agreement; 5 = high agreement) - My manager keeps criticizing people for the mistakes they have made in their work.","Forgiveness:
+Please specify to which degree you are agreeing with the following statements 
+(1 = low agreement; 5 = high agreement) - My manager maintains a hard attitude towards people who have offended him/her at work.","Courage:
+
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - My manager takes risks even when he/she is not certain of the support from his/her own manager.","Authenticity: 
+Please specify to which degree you are agreeing with the following statements (1 = low agreement; 5 = high agreement) - My manager is open about his/her limitations and weaknesses.","Authenticity: 
+Please specify to which degree you are agreeing with the following statements (1 = low agreement; 5 = high agreement) - My manager is often touched by the things he/she sees happening around him/her.","Humility:
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - My manager admits his/her mistakes to his/her superior.","Stewardship:
+Please specify to which degree you are agreeing with the following statements
+ (1 = low agreement; 5 = high agreement) - My manager has a long-term vision.","Stewardship:
+Please specify to which degree you are agreeing with the following statements
+ (1 = low agreement; 5 = high agreement) - My manager emphasizes the societal responsibility of our work.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - Significant changes within the organization occur frequently.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - Change is most often triggered by market trends, internal innovation, or regulatory changes.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - The organization is well-prepared to implement changes when they are needed.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - There is a formal change management process or team in place","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - Employees are involved in the change process within the organization.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - New changes are implemented effectively within the organization.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - There are mechanisms in place for ongoing monitoring and evaluation of the outcomes of change.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - Employees adopt new changes introduced by the organization quickly.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - Resistance to change within the organization is understood and managed effectively.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - The organization learns from the outcomes of past changes.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - A high percentage of organizational changes are successful.","Organizational Change: 
+Please specify to which degree you are agreeing with the following statements
+(1 = low agreement; 5 = high agreement) - Changes align with the long-term strategic goals of the organization."
+"{""ImportId"":""startDate"",""timeZone"":""Europe/London""}","{""ImportId"":""endDate"",""timeZone"":""Europe/London""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/London""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID16""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID6_1""}","{""ImportId"":""QID6_2""}","{""ImportId"":""QID6_3""}","{""ImportId"":""QID6_4""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID1_1""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID10_1""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID12_1""}","{""ImportId"":""QID13_1""}","{""ImportId"":""QID13_2""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID14_2""}","{""ImportId"":""QID14_3""}","{""ImportId"":""QID14_4""}","{""ImportId"":""QID14_5""}","{""ImportId"":""QID14_6""}","{""ImportId"":""QID14_7""}","{""ImportId"":""QID14_8""}","{""ImportId"":""QID14_9""}","{""ImportId"":""QID14_10""}","{""ImportId"":""QID14_11""}","{""ImportId"":""QID14_12""}"
+2024-03-14 18:33:50,2024-03-14 18:36:27,IP Address,185.134.146.223,100,156,True,2024-03-14 18:36:28,R_2VCt9eV6f2lK0LL,,,,,53.3297,-6.2708,anonymous,EN,I agree,22,Female,Consulting,3,3,2,4,3,4,2,3,3,3,3,3,5,3,2,4,3,2,2,4,2,3,3,2,4,4,3
+2024-03-15 09:34:08,2024-03-15 09:37:07,Survey Preview,,100,179,True,2024-03-15 09:37:09,R_1TyLXcmMmI6Sh0m,,,,,53.3297,-6.2708,preview,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-03-15 11:33:07,2024-03-15 11:34:29,IP Address,185.134.146.223,100,81,True,2024-03-15 11:34:29,R_3CT0Ig5Z2u8wJ0d,,,,,53.3297,-6.2708,anonymous,EN,I agree,22,Female,Consulting,2,4,3,5,2,1,4,3,4,2,5,5,4,4,5,2,5,3,2,4,3,4,5,3,4,4,2
+2024-03-15 12:42:38,2024-03-15 12:43:27,IP Address,185.134.146.231,100,49,True,2024-03-15 12:43:28,R_3uaPFOd2ALkSfzr,,,,,53.3297,-6.2708,anonymous,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-03-15 13:22:26,2024-03-15 13:24:42,IP Address,178.197.195.87,100,135,True,2024-03-15 13:24:42,R_25L0TmLDB3HJpqF,,,,,46.5558,6.6385,anonymous,EN,I agree,26,Female,Finance and Insurance,4,5,4,4,3,2,2,1,1,3,3,3,2,5,2,3,2,2,1,2,2,3,2,5,4,3,3
+2024-03-15 16:38:47,2024-03-15 16:41:00,IP Address,178.197.218.61,100,132,True,2024-03-15 16:41:01,R_6GB86v2sfZRlJLj,,,,,47.3614,8.4899,anonymous,EN,I agree,,Male,Consulting,5,5,5,5,5,5,4,,,3,5,5,3,3,3,5,5,5,3,4,4,3,4,3,3,3,5
+2024-03-15 18:25:58,2024-03-15 18:32:08,IP Address,93.82.158.234,100,369,True,2024-03-15 18:32:08,R_1DIRBpgM3jagvS2,,,,,47.1521,9.8166,anonymous,EN,I agree,40,Male,Manufacturing and Industrial,3,2,1,4,2,2,4,3,4,4,2,,2,,,2,3,2,,4,3,3,2,2,2,3,4
+2024-03-15 20:28:24,2024-03-15 20:32:35,IP Address,172.58.188.251,100,250,True,2024-03-15 20:32:35,R_7CDbufL5fXdz7nD,,,,,38.9994,-77.0336,anonymous,EN,I agree,22,Female,Information Technology and Services,4,4,5,5,5,5,4,1,1,3,5,4,4,5,4,4,3,4,3,4,3,4,4,4,3,4,5
+2024-03-16 10:37:24,2024-03-16 10:40:36,IP Address,185.134.146.244,100,191,True,2024-03-16 10:40:37,R_45S2iEPDBn4z7dT,,,,,53.3297,-6.2708,anonymous,EN,I agree,42,Male,Manufacturing and Industrial,4,3,4,5,4,4,5,4,3,4,5,,5,3,2,4,4,2,3,3,3,2,4,3,4,4,4
+2024-03-16 15:45:49,2024-03-16 15:50:01,IP Address,79.255.200.101,100,251,True,2024-03-16 15:50:01,R_4e4P492JWag1K4p,,,,,49.0015,9.4957,anonymous,EN,I agree,25,Male,Consulting,5,5,5,4,4,5,5,1,1,,2,2,,5,3,4,4,5,,5,4,5,5,4,5,5,4
+2024-03-19 12:41:17,2024-03-19 12:44:30,IP Address,136.206.9.226,100,193,True,2024-03-19 12:44:31,R_8mxicoHwnQLe8SC,,,,,53.3857,-6.2403,anonymous,EN,I agree,23,Female,Information Technology and Services,1,3,4,5,4,,3,2,1,4,5,4,3,5,4,4,5,4,5,3,4,5,2,4,4,5,5
+2024-03-19 12:42:22,2024-03-19 12:45:21,IP Address,136.206.9.148,100,179,True,2024-03-19 12:45:21,R_8SBw2w2UDUW3eOY,,,,,53.3857,-6.2403,anonymous,EN,I agree,23,Female,Consulting,4,4,5,4,4,5,3,1,1,2,3,2,3,5,3,2,2,3,4,4,2,4,3,3,3,3,4
+2024-03-19 14:16:34,2024-03-19 14:20:55,IP Address,176.3.152.2,100,261,True,2024-03-19 14:20:55,R_2WM8v9fjYEM3ur3,,,,,48.767,9.1827,anonymous,EN,I agree,22,Female,Consulting,5,5,5,4,3,4,5,1,4,4,4,3,4,4,5,2,4,4,3,4,5,4,5,4,4,4,5
+2024-03-15 12:50:05,2024-03-15 12:50:11,IP Address,185.134.146.231,8,6,False,2024-03-22 12:50:19,R_6NmpWMLP3ianrY5,,,,,,,anonymous,EN,I agree,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-03-15 13:15:45,2024-03-15 13:16:11,IP Address,104.28.135.80,31,26,False,2024-03-22 13:16:14,R_1mQTli3oRqSyZcf,,,,,,,anonymous,EN,I agree,36,Male,Finance and Insurance,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-03-15 18:28:35,2024-03-15 18:31:07,IP Address,176.6.184.235,92,151,False,2024-03-22 18:31:12,R_400YbFcIqVhgVI5,,,,,,,anonymous,EN,I agree,24,Female,Consulting,4,4,5,2,2,2,5,4,5,4,2,2,4,5,3,,,,,,,,,,,,
+2024-03-24 23:52:49,2024-03-24 23:56:48,IP Address,148.88.245.249,100,239,True,2024-03-24 23:56:49,R_1dEbr5lOWSSQFJx,,,,,54.0479,-2.7977,anonymous,EN,I agree,23,Female,Retail and Consumer Goods,2,4,4,5,2,4,4,2,2,3,3,2,4,4,3,3,4,3,3,4,3,2,3,3,4,3,4
+2024-03-25 04:09:17,2024-03-25 04:13:15,IP Address,23.16.205.78,100,237,True,2024-03-25 04:13:16,R_5pPXMCsI8Cnc0qQ,,,,,49.2635,-122.9331,anonymous,EN,I agree,21,Female,Finance and Insurance,5,3,5,5,5,5,5,,,2,5,3,5,5,4,4,5,3,,5,2,,2,,2,,5
+2024-03-25 06:30:57,2024-03-25 06:35:38,IP Address,87.142.199.13,100,280,True,2024-03-25 06:35:38,R_5WC2gfTz0ibCKMb,,,,,51.0831,13.691,anonymous,EN,I agree,21,Female,Other Industries,3,3,3,3,3,3,3,3,3,2,2,2,3,4,4,3,2,2,3,3,3,3,2,3,3,3,4
+2024-03-25 07:57:33,2024-03-25 08:35:01,IP Address,185.38.49.1,100,2247,True,2024-03-25 08:35:02,R_14Y4eK9k1T67wyZ,,,,,50.9596,14.7048,anonymous,EN,I agree,66 years,Female,Finance and Insurance,4,3,4,4,3,3,3,3,3,4,3,4,4,2,4,4,5,3,3,4,3,4,3,3,4,4,2
+2024-03-25 21:19:03,2024-03-25 21:23:54,IP Address,148.88.245.66,100,290,True,2024-03-25 21:23:54,R_3CmSKBnjs0GKlmF,,,,,54.0479,-2.7977,anonymous,EN,I agree,23,Female,Information Technology and Services,5,4,4,4,2,2,5,2,2,4,4,4,4,5,3,4,4,4,3,4,4,4,3,3,3,3,4
+2024-03-27 14:59:02,2024-03-27 15:23:29,IP Address,201.150.34.157,100,1466,True,2024-03-27 15:23:30,R_4wHycfNfkuMDlGY,,,,,19.4129,-99.1478,anonymous,EN,I agree,21,Female,Consulting,2,2,1,1,5,5,5,2,1,1,3,2,2,1,1,2,5,3,2,2,3,2,4,3,2,3,4
+2024-03-22 12:53:15,2024-03-22 12:53:33,IP Address,209.35.184.17,31,18,False,2024-03-29 12:53:35,R_7G4vGvjgdspTt61,,,,,,,anonymous,EN,I agree,22,Male,Healthcare and Life Sciences,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-03-25 08:28:49,2024-03-25 08:29:49,IP Address,79.249.191.137,31,60,False,2024-04-01 09:29:50,R_4nU5ZGhgqgxA1qV,,,,,,,anonymous,EN,I agree,,Female,Education and Research,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-03-27 11:32:00,2024-03-27 11:40:23,IP Address,81.201.156.88,31,502,False,2024-04-03 12:40:25,R_4oKEWQLaJFD94ik,,,,,,,anonymous,EN,I agree,22,Female,Other Industries,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-03-28 05:51:36,2024-03-28 05:52:46,IP Address,79.242.100.240,31,69,False,2024-04-04 06:52:47,R_41vRUZUqvWdzzrv,,,,,,,anonymous,EN,I agree,45,Male,Manufacturing and Industrial,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2024-04-07 16:18:33,2024-04-07 16:25:00,IP Address,109.43.113.214,100,387,True,2024-04-07 16:25:00,R_6TESGGmG3ddQCmo,,,,,50.1188,8.6843,anonymous,EN,I agree,25,Male,Government and Public Sector,3,2,3,2,4,4,3,2,4,3,3,3,3,2,5,1,1,1,2,1,2,2,1,1,1,3,4
+2024-04-07 16:25:14,2024-04-07 16:27:58,IP Address,109.43.113.214,100,164,True,2024-04-07 16:27:59,R_8o7IWanEdUvm21r,,,,,50.1188,8.6843,anonymous,EN,I agree,65,Female,Education and Research,3,3,4,2,5,5,5,2,1,2,4,5,3,3,5,2,3,2,2,4,4,2,3,1,1,3,5
+2024-04-07 16:28:04,2024-04-07 16:30:21,IP Address,109.43.113.214,100,136,True,2024-04-07 16:30:21,R_7ksLMmCPO49gaMF,,,,,50.1188,8.6843,anonymous,EN,I agree,21,Female,Retail and Consumer Goods,4,4,4,4,5,5,4,3,4,4,3,3,5,3,2,4,4,3,5,4,4,3,4,3,3,3,3
+2024-04-07 16:30:27,2024-04-07 16:32:19,IP Address,109.43.113.214,100,111,True,2024-04-07 16:32:19,R_2fO1MUttngbH8fD,,,,,50.1188,8.6843,anonymous,EN,I agree,27,Male,Manufacturing and Industrial,2,3,3,3,2,4,3,3,3,2,3,2,2,2,2,2,2,3,3,2,3,2,1,1,1,2,1
+2024-04-07 16:32:24,2024-04-07 16:34:37,IP Address,109.43.113.214,100,132,True,2024-04-07 16:34:37,R_2dmtJHgCqRrIDjw,,,,,50.1188,8.6843,anonymous,EN,I agree,31,Female,Consulting,3,4,5,5,4,4,4,5,5,5,4,5,4,4,5,4,4,4,5,3,3,5,4,4,4,3,4
+2024-04-07 16:34:41,2024-04-07 16:36:10,IP Address,109.43.113.214,100,88,True,2024-04-07 16:36:10,R_22MnAi7gIiiJjpn,,,,,50.1188,8.6843,anonymous,EN,I agree,26,Female,Healthcare and Life Sciences,3,3,3,4,4,5,4,2,2,4,3,5,4,4,4,4,5,3,3,3,3,3,4,4,4,4,4
+2024-04-07 16:36:26,2024-04-07 16:41:06,IP Address,109.43.113.214,100,279,True,2024-04-07 16:41:06,R_21by8rDZU0mkaYq,,,,,50.1188,8.6843,anonymous,EN,I agree,25,Female,Information Technology and Services,3,4,4,4,3,5,4,2,3,4,4,3,4,4,4,4,3,3,4,4,4,4,3,5,4,4,3
+2024-04-07 16:41:11,2024-04-07 16:42:36,IP Address,109.43.113.214,100,85,True,2024-04-07 16:42:37,R_1neDKOed4CXsuHA,,,,,50.1188,8.6843,anonymous,EN,I agree,22,Male,Consulting,4,4,4,4,3,4,4,2,1,4,4,4,4,3,4,4,4,5,5,5,4,4,4,3,4,3,4
+2024-04-08 10:22:11,2024-04-08 10:23:25,IP Address,185.134.146.231,100,73,True,2024-04-08 10:23:25,R_22sV4U7c4PkxMVw,,,,,53.3297,-6.2708,anonymous,EN,I agree,44,Male,Government and Public Sector,4,4,4,5,4,3,4,4,4,4,5,5,5,4,3,5,4,4,4,4,4,4,4,4,5,4,4
+2024-04-08 10:23:29,2024-04-08 10:24:39,IP Address,185.134.146.231,100,70,True,2024-04-08 10:24:39,R_5KWqLKjmNxX2HcJ,,,,,53.3297,-6.2708,anonymous,EN,I agree,30,Female,Other Industries,3,3,3,3,3,3,4,3,3,4,3,3,4,4,4,3,3,4,4,3,4,4,4,4,4,5,4
+2024-04-08 10:25:50,2024-04-08 10:27:03,IP Address,185.134.146.231,100,73,True,2024-04-08 10:27:04,R_1cMOmCIC48yuVqx,,,,,53.3297,-6.2708,anonymous,EN,I agree,25,Female,Finance and Insurance,3,4,4,5,5,5,5,5,4,5,5,4,5,5,4,4,5,4,4,5,5,5,4,4,4,5,4
+2024-04-08 10:27:09,2024-04-08 10:28:19,IP Address,185.134.146.231,100,69,True,2024-04-08 10:28:19,R_8V1lDJmWHMgBclr,,,,,53.3297,-6.2708,anonymous,EN,I agree,23,Male,Consulting,4,2,3,3,2,3,3,4,4,5,3,4,3,3,3,4,4,5,4,4,4,4,5,4,4,4,4
+2024-04-08 10:28:50,2024-04-08 10:29:50,IP Address,185.134.146.231,100,59,True,2024-04-08 10:29:50,R_2FXnNOKPjQdsygI,,,,,53.3297,-6.2708,anonymous,EN,I agree,,Male,Manufacturing and Industrial,3,3,3,3,4,4,3,3,3,4,3,3,3,4,4,3,3,4,4,4,3,4,4,4,3,3,4
+2024-04-08 10:29:58,2024-04-08 10:31:09,IP Address,185.134.146.231,100,71,True,2024-04-08 10:31:09,R_32PHNGTBJ6Hn1Zm,,,,,53.3297,-6.2708,anonymous,EN,I agree,26,Female,Consulting,4,4,4,4,3,3,4,2,1,4,4,4,3,4,3,4,3,3,3,4,4,4,4,4,3,4,3
+2024-04-08 10:31:14,2024-04-08 10:32:37,IP Address,185.134.146.231,100,82,True,2024-04-08 10:32:37,R_8fGHhXy2jZasnxH,,,,,53.3297,-6.2708,anonymous,EN,I agree,24,Female,Consulting,4,3,4,5,3,3,4,1,1,5,4,4,4,3,4,4,4,4,3,4,4,4,4,4,4,4,3
+2024-04-08 10:43:40,2024-04-08 10:45:03,IP Address,185.134.146.231,100,82,True,2024-04-08 10:45:03,R_8MEqs9vLCs7avL3,,,,,53.3297,-6.2708,anonymous,EN,I agree,27,Female,Information Technology and Services,5,5,4,4,4,5,4,1,1,2,4,3,3,4,2,4,4,3,3,4,3,3,3,3,4,3,4
+2024-04-08 10:45:06,2024-04-08 10:46:22,IP Address,185.134.146.231,100,75,True,2024-04-08 10:46:22,R_2mr58z28Btc8NW9,,,,,53.3297,-6.2708,anonymous,EN,I agree,29,Male,Manufacturing and Industrial,4,4,3,4,3,5,5,1,2,4,3,4,4,4,4,4,4,4,4,4,4,3,4,3,4,4,3
+2024-04-08 10:46:27,2024-04-08 10:47:40,IP Address,185.134.146.231,100,73,True,2024-04-08 10:47:41,R_1jdl18JY1ROfoMk,,,,,53.3297,-6.2708,anonymous,EN,I agree,33,Male,Healthcare and Life Sciences,4,4,3,3,4,3,5,1,1,4,4,4,4,5,2,3,2,4,3,4,2,4,3,3,3,4,4
+2024-04-08 10:47:44,2024-04-08 10:49:28,IP Address,185.134.146.231,100,103,True,2024-04-08 10:49:28,R_8FYCHYdvCD5yEqR,,,,,53.3297,-6.2708,anonymous,EN,I agree,35,Female,Consulting,2,2,3,3,2,3,2,3,4,2,3,3,2,3,2,2,2,1,3,3,2,2,2,3,2,2,2
+2024-04-08 10:49:32,2024-04-08 10:51:01,IP Address,185.134.146.231,100,89,True,2024-04-08 10:51:02,R_4DjY2m8nEE7UM6t,,,,,53.3297,-6.2708,anonymous,EN,I agree,31,Female,Finance and Insurance,4,3,3,3,3,3,4,2,2,3,4,3,4,4,2,4,4,3,4,3,4,3,3,4,5,5,4
+2024-04-08 10:51:05,2024-04-08 10:52:28,IP Address,185.134.146.231,100,83,True,2024-04-08 10:52:29,R_2To2YvFETHMBqan,,,,,53.3297,-6.2708,anonymous,EN,I agree,44,Female,Education and Research,4,3,4,3,4,4,5,1,1,3,4,4,3,4,4,4,4,5,4,4,4,4,3,3,4,3,4
+2024-04-08 10:52:33,2024-04-08 10:54:01,IP Address,185.134.146.231,100,88,True,2024-04-08 10:54:01,R_5D7k4zrvZfKP43V,,,,,53.3297,-6.2708,anonymous,EN,I agree,45,Male,Government and Public Sector,4,5,4,3,4,3,5,1,1,4,3,3,4,4,4,2,2,3,3,4,4,3,3,5,3,3,4
+2024-04-08 10:54:04,2024-04-08 10:55:24,IP Address,185.134.146.231,100,79,True,2024-04-08 10:55:25,R_7lyJXkKm1x2N2yT,,,,,53.3297,-6.2708,anonymous,EN,I agree,32,Female,Consulting,4,4,5,4,2,3,5,3,3,5,4,3,4,3,4,3,3,4,5,5,5,4,4,5,4,4,5
+2024-04-08 10:55:28,2024-04-08 10:57:29,IP Address,185.134.146.231,100,120,True,2024-04-08 10:57:30,R_44hai7RAAIOjNbb,,,,,53.3297,-6.2708,anonymous,EN,I agree,28,Male,Finance and Insurance,3,3,3,3,4,3,4,1,2,4,4,3,4,4,5,4,4,3,3,4,3,4,3,4,4,3,3
+2024-04-08 10:57:36,2024-04-08 10:59:58,IP Address,185.134.146.231,100,141,True,2024-04-08 10:59:58,R_2pFPhYiqQqKt2dZ,,,,,53.3297,-6.2708,anonymous,EN,I agree,42,Female,Consulting,4,4,5,3,4,4,4,4,4,3,4,5,4,4,4,4,3,4,5,4,3,4,4,5,4,3,4
+2024-04-08 11:00:01,2024-04-08 11:01:11,IP Address,185.134.146.231,100,69,True,2024-04-08 11:01:12,R_2snSSNOxEcMgdKG,,,,,53.3297,-6.2708,anonymous,EN,I agree,28,Female,Retail and Consumer Goods,4,4,3,4,4,5,4,4,5,4,4,4,5,4,4,4,4,5,4,4,4,5,3,2,3,2,3
+2024-04-08 11:01:25,2024-04-08 11:02:37,IP Address,185.134.146.231,100,71,True,2024-04-08 11:02:38,R_2rposFuY9Zmtjww,,,,,53.3297,-6.2708,anonymous,EN,I agree,31,Female,Energy and Utilities,3,4,3,4,4,3,5,2,1,3,4,3,4,4,3,3,4,3,4,3,4,3,4,3,4,3,3
+2024-04-08 11:02:41,2024-04-08 11:03:50,IP Address,185.134.146.231,100,69,True,2024-04-08 11:03:51,R_1QgOtYvcBrtUq4N,,,,,53.3297,-6.2708,anonymous,EN,I agree,76,Male,Information Technology and Services,4,3,2,3,3,3,2,3,1,3,2,3,4,3,4,3,4,4,4,3,4,4,4,4,4,2,2
+2024-04-08 11:03:58,2024-04-08 11:05:16,IP Address,185.134.146.231,100,77,True,2024-04-08 11:05:16,R_77v4r1dUPBs7HO5,,,,,53.3297,-6.2708,anonymous,EN,I agree,42,Female,Consulting,3,4,3,4,3,3,4,4,4,4,4,3,4,2,1,5,5,5,5,3,5,5,5,3,3,3,4
+2024-04-08 11:05:20,2024-04-08 11:07:04,IP Address,185.134.146.231,100,103,True,2024-04-08 11:07:05,R_39lZsqpCD6Hy2AC,,,,,53.3297,-6.2708,anonymous,EN,I agree,30,Male,Consulting,4,5,5,4,1,2,5,2,1,5,2,3,5,2,3,4,5,5,4,4,3,5,5,5,5,4,5
+2024-04-08 11:08:25,2024-04-08 11:10:28,IP Address,185.134.146.231,100,122,True,2024-04-08 11:10:29,R_8D7GaxHGEBAGWH5,,,,,53.3297,-6.2708,anonymous,EN,I agree,23,Female,Information Technology and Services,2,2,2,1,4,3,2,2,1,3,2,3,2,4,3,2,2,3,1,2,2,3,2,2,3,2,3
+2024-04-08 11:10:32,2024-04-08 11:11:46,IP Address,185.134.146.231,100,74,True,2024-04-08 11:11:47,R_3FbxLrjDAI2wwr9,,,,,53.3297,-6.2708,anonymous,EN,I agree,26,Male,Other Industries,3,2,4,2,3,3,3,2,1,2,3,3,3,3,2,2,3,1,1,1,1,1,1,1,1,1,1
+2024-04-08 11:11:50,2024-04-08 11:13:26,IP Address,185.134.146.231,100,96,True,2024-04-08 11:13:26,R_70B8u7k3RPch1Rf,,,,,53.3297,-6.2708,anonymous,EN,I agree,33,Male,Information Technology and Services,4,3,3,3,4,4,4,1,1,4,5,3,4,3,3,4,4,4,4,5,4,3,4,5,5,4,5
+2024-04-08 11:13:53,2024-04-08 11:15:51,IP Address,185.134.146.231,100,117,True,2024-04-08 11:15:51,R_2kUrw4MtgTBdfY8,,,,,53.3297,-6.2708,anonymous,EN,I agree,22,Male,Finance and Insurance,5,4,3,4,4,5,5,1,1,4,4,4,4,3,4,4,3,4,3,4,3,4,3,3,3,5,5
+2024-04-08 11:15:55,2024-04-08 11:17:12,IP Address,185.134.146.231,100,77,True,2024-04-08 11:17:12,R_6d3VhvYTDniKOZy,,,,,53.3297,-6.2708,anonymous,EN,I agree,29,Female,Retail and Consumer Goods,4,3,3,4,4,3,3,3,1,3,4,3,4,4,2,4,3,3,4,3,4,4,3,4,3,3,4
+2024-04-08 11:17:15,2024-04-08 11:18:31,IP Address,185.134.146.231,100,75,True,2024-04-08 11:18:31,R_1gOW18RsUnXzTci,,,,,53.3297,-6.2708,anonymous,EN,I agree,24,Female,Other Industries,3,4,4,5,5,5,4,4,3,4,3,4,4,4,2,4,3,3,3,4,3,4,4,4,3,4,4
+2024-04-08 11:18:34,2024-04-08 11:19:44,IP Address,185.134.146.231,100,69,True,2024-04-08 11:19:44,R_289JD3OFBWstCr7,,,,,53.3297,-6.2708,anonymous,EN,I agree,44,Female,Healthcare and Life Sciences,3,4,3,3,3,4,4,1,1,3,3,4,4,4,2,2,4,4,4,4,4,4,4,4,4,3,4
+2024-04-08 11:19:47,2024-04-08 11:21:30,IP Address,185.134.146.231,100,103,True,2024-04-08 11:21:30,R_7NChC438bUswDJV,,,,,53.3297,-6.2708,anonymous,EN,I agree,31,Male,Other Industries,4,3,4,3,4,4,3,1,2,5,4,3,4,4,3,3,3,4,4,5,4,5,4,4,4,5,3
+2024-04-08 11:21:35,2024-04-08 11:22:50,IP Address,185.134.146.231,100,74,True,2024-04-08 11:22:50,R_2qvV12muX4u03Fh,,,,,53.3297,-6.2708,anonymous,EN,I agree,23,Male,Information Technology and Services,4,3,4,4,4,4,5,1,1,4,4,3,4,4,3,4,3,4,3,4,3,4,4,3,3,4,3
+2024-04-08 11:23:02,2024-04-08 11:24:35,IP Address,185.134.146.231,100,93,True,2024-04-08 11:24:35,R_6DwhJaSo9L5uyCq,,,,,53.3297,-6.2708,anonymous,EN,I agree,33,Female,Other Industries,3,3,2,2,3,4,4,3,3,3,2,1,3,2,2,4,3,4,3,4,3,3,4,3,3,4,3
+2024-04-08 11:24:41,2024-04-08 11:26:13,IP Address,185.134.146.231,100,92,True,2024-04-08 11:26:13,R_2pYYUFlA0MVbccN,,,,,53.3297,-6.2708,anonymous,EN,I agree,55,Male,Government and Public Sector,2,1,1,3,2,1,4,3,3,2,1,1,2,1,3,1,2,1,3,2,1,3,1,1,1,2,3
+2024-04-08 11:26:17,2024-04-08 11:27:37,IP Address,185.134.146.231,100,80,True,2024-04-08 11:27:37,R_2G5NeDwdsdBUgAp,,,,,53.3297,-6.2708,anonymous,EN,I agree,38,Male,Government and Public Sector,5,4,3,5,3,3,5,3,4,4,4,3,4,4,3,4,4,4,3,3,2,4,4,3,4,4,3
+2024-04-08 11:27:41,2024-04-08 11:28:48,IP Address,185.134.146.231,100,67,True,2024-04-08 11:28:49,R_2BaqPLiSQQ8KXt4,,,,,53.3297,-6.2708,anonymous,EN,I agree,25,Female,Information Technology and Services,4,4,4,5,4,4,5,1,1,3,4,4,3,5,3,3,4,4,4,4,4,3,4,3,5,4,5
+2024-04-08 11:29:53,2024-04-08 11:31:17,IP Address,185.134.146.231,100,84,True,2024-04-08 11:31:18,R_2hUoFwF1XA8hCG5,,,,,53.3297,-6.2708,anonymous,EN,I agree,39,Female,Manufacturing and Industrial,4,3,4,3,4,4,4,2,2,5,4,3,4,4,4,3,4,4,3,4,4,3,4,4,3,4,4
+2024-04-08 11:32:11,2024-04-08 11:34:03,IP Address,185.134.146.231,100,112,True,2024-04-08 11:34:04,R_8fZtubHhspuUQ6c,,,,,53.3297,-6.2708,anonymous,EN,I agree,47,Female,Consulting,3,4,4,4,4,3,4,1,1,5,4,4,4,5,2,3,4,4,2,3,3,4,3,4,4,4,5
+2024-04-08 11:34:07,2024-04-08 11:35:23,IP Address,185.134.146.231,100,75,True,2024-04-08 11:35:23,R_3MQGC4s5YZEnGi3,,,,,53.3297,-6.2708,anonymous,EN,I agree,20,Male,Finance and Insurance,4,3,4,3,4,3,5,1,1,3,4,3,4,5,3,4,4,4,3,4,3,3,3,4,5,5,4
+2024-04-08 11:35:33,2024-04-08 11:37:16,IP Address,185.134.146.231,100,103,True,2024-04-08 11:37:17,R_2IREf2v9EauQkb7,,,,,53.3297,-6.2708,anonymous,EN,I agree,19,Female,Other Industries,4,4,4,3,5,4,4,2,1,4,3,5,2,4,2,3,4,3,4,4,4,5,4,4,4,5,4
+2024-04-08 11:37:29,2024-04-08 11:40:20,IP Address,185.134.146.231,100,170,True,2024-04-08 11:40:20,R_8Dh0fU6CShYNMFX,,,,,53.3297,-6.2708,anonymous,EN,I agree,26,Female,Consulting,4,4,3,4,4,4,5,1,1,4,5,3,3,4,2,4,4,5,4,5,3,3,4,5,4,5,4
+2024-04-08 11:40:35,2024-04-08 11:42:21,IP Address,185.134.146.231,100,106,True,2024-04-08 11:42:22,R_1q349mZJKvd8Ys5,,,,,53.3297,-6.2708,anonymous,EN,I agree,31,Male,Education and Research,4,5,4,5,4,3,5,1,2,5,5,4,4,5,3,3,5,4,4,4,4,5,4,3,3,4,4
+2024-04-08 11:42:26,2024-04-08 11:43:40,IP Address,185.134.146.231,100,73,True,2024-04-08 11:43:41,R_216gLpbXMOIaLtf,,,,,53.3297,-6.2708,anonymous,EN,I agree,28,Female,Information Technology and Services,3,3,3,4,2,3,4,3,3,4,3,3,3,3,3,3,3,3,4,3,2,3,2,3,2,3,3
+2024-04-08 11:43:44,2024-04-08 11:45:02,IP Address,185.134.146.231,100,78,True,2024-04-08 11:45:02,R_5oC5lgrkU8mxPwK,,,,,53.3297,-6.2708,anonymous,EN,I agree,28,Female,Manufacturing and Industrial,4,3,3,4,4,4,5,1,1,3,4,3,4,3,3,3,4,4,3,4,4,3,3,4,3,4,4
+2024-04-08 11:45:06,2024-04-08 11:46:26,IP Address,185.134.146.231,100,79,True,2024-04-08 11:46:26,R_8RNXzaJFOBPppUR,,,,,53.3297,-6.2708,anonymous,EN,I agree,26,Female,Consulting,4,4,4,5,4,4,5,2,1,4,3,4,4,3,3,4,3,2,3,4,3,3,3,4,3,3,4
+2024-04-08 11:46:32,2024-04-08 11:48:19,IP Address,185.134.146.231,100,107,True,2024-04-08 11:48:20,R_5Mce3BfFmokRs4i,,,,,53.3297,-6.2708,anonymous,EN,I agree,28,Female,Healthcare and Life Sciences,4,5,4,5,4,4,5,1,1,3,3,4,4,4,3,4,4,3,3,3,4,4,3,4,4,4,4
+2024-04-08 11:48:26,2024-04-08 11:49:41,IP Address,185.134.146.231,100,75,True,2024-04-08 11:49:42,R_5wBVjROWXeAn8MV,,,,,53.3297,-6.2708,anonymous,EN,I agree,36,Female,Government and Public Sector,4,3,4,4,3,3,5,4,4,5,4,4,5,5,4,4,5,5,5,4,4,4,4,3,4,3,4
+2024-04-08 11:49:46,2024-04-08 11:52:06,IP Address,185.134.146.231,100,139,True,2024-04-08 11:52:06,R_2iJcjk2y4qfbgf1,,,,,53.3297,-6.2708,anonymous,EN,I agree,32,Male,Consulting,5,5,5,4,4,3,5,1,1,5,5,3,3,5,3,4,5,5,5,4,5,5,5,4,4,5,3
+2024-04-08 11:52:10,2024-04-08 11:53:28,IP Address,185.134.146.231,100,77,True,2024-04-08 11:53:28,R_2vdd8lmrf9Jj9mh,,,,,53.3297,-6.2708,anonymous,EN,I agree,40,Male,Information Technology and Services,4,4,4,5,4,5,5,1,2,4,4,5,4,5,3,4,4,3,5,5,5,4,4,5,4,5,5
