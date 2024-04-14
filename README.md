@@ -1,6 +1,6 @@
 # OLS and Data Preparing
 
-This repository contains Python scripts for performing comprehensive data analysis, including data cleaning, exploratory data analysis, reliability testing, dimensionality reduction, and regression analysis using OLS.
+This repository contains Python scripts for performing comprehensive data analysis, including data cleaning, exploratory data analysis, reliability testing, dimensionality reduction, and regression analysis using OLS. The goal is to predict in which way servant leadership is influencing the success of change management initatives. 
 
 ## Description
 
